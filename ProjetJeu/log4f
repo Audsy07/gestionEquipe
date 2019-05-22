@@ -1,0 +1,10 @@
+2019-05-16 17:14:00 INFO  ProjetJeuApplication:26 - CC World!
+2019-05-16 17:14:00 WARN  ProjetJeuApplication:27 - Non World!
+2019-05-16 17:14:00 ERROR ProjetJeuApplication:28 - Ô secours World!
+2019-05-16 17:14:00 FATAL ProjetJeuApplication:29 - BAH World!
+2019-05-16 17:15:24 TRACE ProjetJeuApplication:24 - Yo World!
+2019-05-16 17:15:24 DEBUG ProjetJeuApplication:25 - Hello World!
+2019-05-16 17:15:24 INFO  ProjetJeuApplication:26 - CC World!
+2019-05-16 17:15:24 WARN  ProjetJeuApplication:27 - Non World!
+2019-05-16 17:15:24 ERROR ProjetJeuApplication:28 - Ô secours World!
+2019-05-16 17:15:24 FATAL ProjetJeuApplication:29 - BAH World!
