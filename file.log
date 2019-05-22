@@ -1,0 +1,240 @@
+2019-05-17 10:49:35 TRACE ProjetJeuApplication:23 - Yo World!
+2019-05-17 10:49:35 DEBUG ProjetJeuApplication:24 - Hello World!
+2019-05-17 10:49:35 INFO  ProjetJeuApplication:25 - CC World!
+2019-05-17 10:49:35 WARN  ProjetJeuApplication:26 - Non World!
+2019-05-17 10:49:35 ERROR ProjetJeuApplication:27 - Ô secours World!
+2019-05-17 10:49:35 FATAL ProjetJeuApplication:28 - BAH World!
+2019-05-17 10:54:02 DEBUG UserService:31 - DEBUG create : ID déjà existant
+2019-05-17 11:09:44 TRACE ProjetJeuApplication:23 - Yo World!
+2019-05-17 11:09:44 DEBUG ProjetJeuApplication:24 - Hello World!
+2019-05-17 11:09:44 INFO  ProjetJeuApplication:25 - CC World!
+2019-05-17 11:09:44 WARN  ProjetJeuApplication:26 - Non World!
+2019-05-17 11:09:44 ERROR ProjetJeuApplication:27 - Ô secours World!
+2019-05-17 11:09:44 FATAL ProjetJeuApplication:28 - BAH World!
+2019-05-17 11:10:09 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 11:10:25 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 11:11:21 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 11:12:26 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 11:12:48 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 11:13:07 DEBUG UserService:33 - DEBUG create : l'ID n'est pas valide
+2019-05-17 11:14:26 TRACE ProjetJeuApplication:23 - Yo World!
+2019-05-17 11:14:26 DEBUG ProjetJeuApplication:24 - Hello World!
+2019-05-17 11:14:26 INFO  ProjetJeuApplication:25 - CC World!
+2019-05-17 11:14:26 WARN  ProjetJeuApplication:26 - Non World!
+2019-05-17 11:14:26 ERROR ProjetJeuApplication:27 - Ô secours World!
+2019-05-17 11:14:26 FATAL ProjetJeuApplication:28 - BAH World!
+2019-05-17 11:14:28 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 11:14:35 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 11:15:43 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 12:38:06 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 12:38:22 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 12:38:44 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 12:39:06 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 12:41:05 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 12:41:25 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 14:58:53 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 14:59:43 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 15:01:22 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 15:03:01 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 15:04:19 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 15:05:26 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 15:06:40 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 15:08:15 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 15:09:47 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 15:11:31 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-17 15:12:59 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 15:21:14 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 15:21:39 DEBUG UserService:34 - DEBUG create : l'ID n'est pas valide
+2019-05-17 15:22:44 DEBUG UserService:30 - DEBUG create : L'ID déjà existant
+2019-05-20 13:08:44 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 14:35:34 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:01:55 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:01:55 DEBUG UserService:95 - DEBUG update: un utilisateur a été mis à jour
+2019-05-20 15:01:55 DEBUG UserService:129 - DEBUG deleteUser: l'utilisateur n'a pas été supprimé
+2019-05-20 15:06:05 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:06:05 DEBUG UserService:95 - DEBUG update: un utilisateur a été mis à jour
+2019-05-20 15:20:28 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:21:13 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:21:13 ERROR UserService:41 - Error createUser: l'email n'existe pas
+2019-05-20 15:28:12 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:28:12 ERROR UserService:41 - Error createUser: l'email existe déjà
+2019-05-20 15:29:33 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:29:33 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:30:30 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:30:30 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:34:02 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:34:02 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:46:23 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:46:23 ERROR UserService:41 - Error createUser: l'email ou l'id existe déjà
+2019-05-20 15:52:49 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:52:49 ERROR UserService:41 - Error createUser: l'email existe déjà
+2019-05-20 15:52:49 DEBUG UserService:73 - DEBUG readById: l'utilisateur1a été trouvé
+2019-05-20 15:53:46 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 15:53:46 ERROR UserService:41 - Error createUser: l'email existe déjà
+2019-05-20 15:53:46 DEBUG UserService:73 - DEBUG readById: l'utilisateur 1 a été trouvé
+2019-05-20 16:01:15 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 16:01:15 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 16:04:51 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 16:04:51 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 16:29:22 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 16:29:22 TRACE UserService:31 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:22:18 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:23:03 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:23:03 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:24:14 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:24:14 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:25:58 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:25:58 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:29:35 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-20 17:29:35 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:04:27 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:04:27 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:06:50 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:06:51 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:06:51 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:09:00 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:09:00 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:09:00 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:09:00 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:10:00 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:10:00 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:10:00 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:10:00 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:10:00 ERROR UserService:43 - ERROR createUser: l'email existe déjà
+2019-05-21 10:11:50 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:11:50 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:11:50 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:11:50 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:11:50 ERROR UserService:43 - ERROR createUser: l'email existe déjà
+2019-05-21 10:12:46 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:12:46 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:12:46 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:12:46 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:12:46 ERROR UserService:43 - ERROR createUser: l'email existe déjà
+2019-05-21 10:12:46 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 10:14:57 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:14:57 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:14:57 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:14:57 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:14:58 ERROR UserService:43 - ERROR createUser: l'email existe déjà
+2019-05-21 10:14:58 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 10:14:58 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 10:17:06 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:17:06 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:17:06 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:17:06 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:17:06 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 10:17:06 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 10:17:06 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 10:19:48 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:19:48 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:19:48 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:19:48 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:19:48 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 10:19:48 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 10:19:48 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 10:19:48 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:26:28 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:26:28 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:26:28 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:26:28 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:26:28 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 10:26:28 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 10:26:28 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 10:26:28 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:51:09 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:51:09 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:51:09 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:51:09 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:51:09 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 10:51:09 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 10:51:09 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 10:51:09 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:51:09 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:52:21 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:52:21 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:52:21 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:52:22 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:52:22 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 10:52:22 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 10:52:22 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 10:52:22 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:52:22 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:52:22 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:56:53 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:56:53 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:56:53 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:56:53 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 10:56:53 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 10:56:53 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 10:56:53 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 10:56:54 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:56:54 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:56:54 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 10:56:54 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:04:39 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:04:39 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:04:39 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:04:39 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:04:39 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 11:04:39 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 11:04:39 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 11:04:39 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:04:39 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:04:39 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:04:39 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:07:25 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:07:25 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:07:25 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:07:25 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:07:25 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 11:07:25 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 11:07:25 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 11:07:25 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:07:25 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:07:25 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:07:25 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:14:17 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:14:17 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:14:17 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:14:17 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:14:17 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 11:14:17 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 11:14:17 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 11:14:18 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:14:18 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:14:18 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:14:18 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:31:51 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:31:51 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:31:51 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:31:51 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:31:51 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 11:31:51 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 11:31:51 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 11:31:52 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:31:52 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:31:52 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:31:52 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:49:47 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:49:47 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:49:47 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:49:47 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 11:49:47 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 11:49:47 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 11:49:47 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 11:49:48 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:49:48 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:49:48 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 11:49:48 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 12:04:06 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 12:04:06 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 12:04:06 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 12:04:06 TRACE UserService:33 - Trace createUser: Un utilisateur est créé
+2019-05-21 12:04:06 ERROR UserService:44 - ERROR createUser: l'email existe déjà
+2019-05-21 12:04:06 DEBUG UserService:75 - DEBUG readById: l'utilisateur 2 a été trouvé
+2019-05-21 12:04:06 DEBUG UserService:79 - DEBUG readById: l'utilisateur n'a pas été trouvé par son id
+2019-05-21 12:04:07 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 12:04:07 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 12:04:07 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
+2019-05-21 12:04:07 DEBUG UserService:104 - DEBUG update: un utilisateur a été mis à jour
